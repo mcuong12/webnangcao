@@ -8,8 +8,9 @@
 
 ## 👤 Thông tin sinh viên
 
-- **Họ và tên:** Nguyễn Mạnh Cường - MSSV 23010271
-   ** Nguyễn Xuân Hậu   - MSSV 23010206
+## Thành viên
+- Nguyễn Xuân Hậu - 23010206
+- Nguyễn Mạnh Cường - 23010271
 
 ---
 
