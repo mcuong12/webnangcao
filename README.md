@@ -8,9 +8,9 @@
 
 ## 👤 Thông tin sinh viên
 
-- **Họ và tên:** Nguyễn Mạnh Cường  
-- **Mã sinh viên:** 23010271
-- **Lớp:** K17-CNTT3  
+- **Họ và tên:** Nguyễn Mạnh Cường - MSSV 23010271
+              ** Nguyễn Xuân Hậu   - MSSV 23010206
+
 ---
 
 ## 📝 Giới thiệu dự án
